@@ -1,2 +1,2 @@
-# accident-alert
-Arduino accident alert system
+# Arduino-Accident-Alert
+Simple accident alert system using gsm and gps modules
