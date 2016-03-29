@@ -1,2 +1,2 @@
 # Arduino-Accident-Alert
-Simple accident alert system using gsm and gps modules
+Simple accident alert system that detects an accident and sends SMS alerts to contacts.
